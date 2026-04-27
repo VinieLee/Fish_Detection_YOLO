@@ -15,14 +15,6 @@
 
 ---
 
-## 🏗️ Architecture
-
-This section describes the architectural design of the proposed model. Figure 1 presents the complete YOLO26n-based architecture with the integrated modules (FasterBlock, C2ICARE, and C3Ghost), while Figure 2 details the internal structure of the C2ICARE module.
-
-All baseline and ablation models (M0–M9) reported in Table 2 were **trained from scratch** to ensure a fair comparison of the architectural contributions. The pretrained weights provided in this repository (`best.pt`) correspond to the **M6 model after transfer learning**, initialised with COCO‑pretrained weights and fine‑tuned on the marine species dataset. This fine‑tuned version achieves a **mAP@0.5 of 0.9032**, demonstrating the benefits of transfer learning for real‑world deployment.
-
-**We encourage researchers to test the proposed model on their own underwater datasets, explore longer training epochs to potentially improve performance, and evaluate the C2ICARE module within other Deep Learning architectures.** Your feedback and contributions are welcome.
-
 
 ### C2ICARE Module
 
