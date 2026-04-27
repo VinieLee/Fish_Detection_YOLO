@@ -88,8 +88,7 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 This license requires that if you modify the code and provide a service over a network (e.g., a web API), you must make the complete source code available to users under the same license.
 
 ### 📚 Citation
-
-This work acknowledges the foundational contributions of the research community. We thank Zhou et al. for their CARE Transformer [zhou2025care], which inspired our C2ICARE module. We also thank Allken et al. for the Deep Vision Fish Dataset and their deep learning methods for fish identification. If you find this work useful, please cite:
+This work acknowledges the foundational contributions of the research community. The C2ICARE module streamlines the CARE Transformer architecture into a high-efficiency framework for optimized fish detection. We also thank Allken et al. for the Deep Vision Fish Dataset and their deep learning methods for fish identification. If you find this work useful, please cite:
 
 ```bash
 @article{SilvaAlvarado2026C2ICARE,
