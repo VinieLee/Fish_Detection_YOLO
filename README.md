@@ -90,13 +90,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This work acknowledges the foundational contributions of the research community. The C2ICARE module streamlines the CARE Transformer architecture into a high-efficiency framework for optimized fish detection. We also thank Allken et al. for the Deep Vision Fish Dataset and their deep learning methods for fish identification. If you find this work useful, please cite:
 
 ```bash
-@article{SilvaAlvarado2026C2ICARE,
-  title={C2ICARE‑Optimized YOLO for Real‑Time Marine Species Detection via Multi‑Scale Convolutional Design},
-  author={Silva-Alvarado, Vinie Lee and Ahmad, Ali and Sendra, Sandra and Lloret, Jaime},
-  journal={[Journal Name]},
-  year={2026},
-  note={Under review}
-}
+
 
 @inproceedings{zhou2025care,
   title={CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction},
@@ -115,32 +109,32 @@ This work acknowledges the foundational contributions of the research community.
 }
 
 @article{10.1093/icesjms/fsab227,
-    author = {Allken, Vaneeda and Rosen, Shale and Handegard, Nils Olav and Malde, Ketil},
-    title = {A deep learning-based method to identify and count pelagic and mesopelagic fishes from trawl camera images},
-    journal = {ICES Journal of Marine Science},
-    volume = {78},
-    number = {10},
-    pages = {3780-3792},
-    year = {2021},
-    month = {12},
-    issn = {1054-3139},
-    doi = {10.1093/icesjms/fsab227},
-    url = {https://doi.org/10.1093/icesjms/fsab227},
-    eprint = {https://academic.oup.com/icesjms/article-pdf/78/10/3780/41772702/fsab227.pdf},
+ author = {Allken, Vaneeda and Rosen, Shale and Handegard, Nils Olav and Malde, Ketil},
+ title = {A deep learning-based method to identify and count pelagic and mesopelagic fishes from trawl camera images},
+  journal = {ICES Journal of Marine Science},
+  volume = {78},
+  number = {10},
+  pages = {3780-3792},
+  year = {2021},
+  month = {12},
+ issn = {1054-3139},
+  doi = {10.1093/icesjms/fsab227},
+ url = {https://doi.org/10.1093/icesjms/fsab227},
+ eprint = {https://academic.oup.com/icesjms/article-pdf/78/10/3780/41772702/fsab227.pdf},
 }
 
 @article{https://doi.org/10.1002/gdj3.114,
-author = {Allken, Vaneeda and Rosen, Shale and Handegard, Nils Olav and Malde, Ketil},
-title = {A real-world dataset and data simulation algorithm for automated fish species identification},
-journal = {Geoscience Data Journal},
-volume = {8},
-number = {2},
-pages = {199-209},
-keywords = {data augmentation, fish dataset, machine learning, synthetic data},
-doi = {https://doi.org/10.1002/gdj3.114},
-url = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/gdj3.114},
-eprint = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/gdj3.114},
-year = {2021}
+  author = {Allken, Vaneeda and Rosen, Shale and Handegard, Nils Olav and Malde, Ketil},
+  title = {A real-world dataset and data simulation algorithm for automated fish species identification},
+  journal = {Geoscience Data Journal},
+  volume = {8},
+  number = {2},
+  pages = {199-209},
+  keywords = {data augmentation, fish dataset, machine learning, synthetic data},
+    doi = {https://doi.org/10.1002/gdj3.114},
+  url = {https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/gdj3.114},
+  eprint = {https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/gdj3.114},
+  year = {2021}
 }
 
 
