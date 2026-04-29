@@ -36,25 +36,25 @@ To validate that the **fine‑tuned M6 model** (obtained after transfer learning
 <p align="center">
   <img src="figures/EigenCAM_3columns_ST1_135-20180503160446316.jpg?t=20260421" alt="EigenCAM ST1_135" width="800">
   <br>
-  <em>Figure 7a. EigenCAM visualisation for ST1_135-20180503160446316: 3 bluewhiting, 2 herring, 1 mesopelagic.</em>
+  <em>Figure 7a. EigenCAM visualisation: 3 bluewhiting, 2 herring, 1 mesopelagic.</em>
 </p>
 
 <p align="center">
   <img src="figures/EigenCAM_3columns_ST6_6-20180506204859914.jpg?t=20260421" alt="EigenCAM ST6_6" width="800">
   <br>
-  <em>Figure 7b. EigenCAM visualisation for ST6_6-20180506204859914: 6 mackerel, 5 herring.</em>
+  <em>Figure 7b. EigenCAM visualisation: 6 mackerel, 5 herring.</em>
 </p>
 
 <p align="center">
   <img src="figures/EigenCAM_3columns_ST019-13-20170511204755726.jpg?t=20260421" alt="EigenCAM ST019-13" width="800">
   <br>
-  <em>Figure 7c. EigenCAM visualisation for ST019-13-20170511204755726: 8 mackerel.</em>
+  <em>Figure 7c. EigenCAM visualisation: 8 mackerel.</em>
 </p>
 
 <p align="center">
   <img src="figures/EigenCAM_3columns_ST033-864-607-20170520203304451.jpg?t=20260421" alt="EigenCAM ST033-864" width="800">
   <br>
-  <em>Figure 7d. EigenCAM visualisation for ST033-864-607-20170520203304451: 2 bluewhiting, 12 herring.</em>
+  <em>Figure 7d. EigenCAM visualisation: 2 bluewhiting, 12 herring.</em>
 </p>
 ---
 
