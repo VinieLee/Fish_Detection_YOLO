@@ -84,8 +84,7 @@ This section provides instructions to set up and run the proposed model.
 ```
 ### 📄 License
 
-This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.
-This license requires that if you modify the code and provide a service over a network (e.g., a web API), you must make the complete source code available to users under the same license.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 📚 Citation
 This work acknowledges the foundational contributions of the research community. The C2ICARE module streamlines the CARE Transformer architecture into a high-efficiency framework for optimized fish detection. We also thank Allken et al. for the Deep Vision Fish Dataset and their deep learning methods for fish identification. If you find this work useful, please cite:
